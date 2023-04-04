@@ -2,4 +2,5 @@
 
 
 def test_cria_produto():
+    # Seu teste deve ser escrito aqui
     pass  # Seu teste deve ser escrito aqui
